@@ -45,7 +45,4 @@ alt="Top languages"
 height="150"
 />
 
----
-
-*Short pitch:* Full‑stack developer with international experience. I ship SaaS and data‑heavy internal tools across logistics, bookings, and recruiting — pragmatic, fast, and product‑minded.
 
