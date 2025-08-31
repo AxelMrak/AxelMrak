@@ -1,19 +1,21 @@
-# Hi, I'm Axel
+# Axel Mrak
 
-Full‑stack dev (frontend‑heavy). I ship SaaS, booking, and logistics tools with React/Next.js, Zustand, Tailwind, Node/Express, PostgreSQL, and Docker. Clean Architecture, compact dashboards, and forms that don’t fight you.
+Full‑stack developer focused on shipping clear, fast, product‑ready web apps. I build SaaS platforms and data‑heavy internal tools with React/Next.js on Node + PostgreSQL. I favor clean architecture, compact dashboards, and frictionless forms.
 
-Based in Europe 🇪🇺 (born in Mendoza 🇦🇷). Lived in Italy 🇮🇹.
+Based in Europe 🇪🇺 (born in Mendoza 🇦🇷 — mate required). Lived in Italy 🇮🇹.
 
 **Collaboration across**
 🇦🇷 🇦🇼 🇮🇹 🇺🇸 🇪🇺
 
 **Now**
 
-* Multi‑tenant apps, real‑time dashboards, and complex forms.
-* Product tooling across logistics, bookings, and recruiting.
+* Multi‑tenant SaaS and real‑time dashboards.
+* Data‑heavy workflows and robust forms at scale.
 
 **Stack**
-React · Next.js · Node/Express · PostgreSQL · Docker
+Programming Languages: TypeScript, Python, PHP, JavaScript, SQL, HTML5, CSS3
+Frameworks & Tools: React, Next.js, Laravel, Node.js, Docker, Git, WordPress, GitHub Actions, Nginx, AWS (EC2, S3), Azure, Bash, Nvim
+Concepts & Practices: Microservices, REST APIs, CI/CD, Technical SEO, Agile Methodologies (Scrum), DevOps
 
 **Links**
 [LinkedIn](https://www.linkedin.com/in/axelmrak) · [GitHub](https://github.com/AxelMrak) · [Email](mailto:axelmrak@gmail.com)
@@ -45,4 +47,5 @@ height="150"
 
 ---
 
-*Short pitch:* Full‑stack engineer with international experience. I ship SaaS and data‑heavy internal tools across logistics, bookings, and recruiting — pragmatic, fast, and product‑minded.
+*Short pitch:* Full‑stack developer with international experience. I ship SaaS and data‑heavy internal tools across logistics, bookings, and recruiting — pragmatic, fast, and product‑minded.
+
