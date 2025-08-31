@@ -2,7 +2,10 @@
 
 Full‑stack dev (frontend‑heavy). I ship SaaS, booking, and logistics tools with React/Next.js, Zustand, Tailwind, Node/Express, PostgreSQL, and Docker. Clean Architecture, compact dashboards, and forms that don’t fight you.
 
-🇦🇷 Born in Mendoza — powered by mate; wine & asado negotiable.
+Based in Europe 🇪🇺 (born in Mendoza 🇦🇷). Lived in Italy 🇮🇹.
+
+**Collaboration across**
+🇦🇷 🇦🇼 🇮🇹 🇺🇸 🇪🇺
 
 **Now**
 
