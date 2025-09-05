@@ -18,7 +18,7 @@ Frameworks & Tools: React, Next.js, Laravel, Node.js, Docker, Git, WordPress, Gi
 Concepts & Practices: Microservices, REST APIs, CI/CD, Technical SEO, Agile Methodologies (Scrum), DevOps
 
 **Links**
-[LinkedIn](https://www.linkedin.com/in/axelmrak) · [GitHub](https://github.com/AxelMrak) · [Email](mailto:axelmrak@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/axelmrak) · [GitHub](https://github.com/AxelMrak) · [Email](mailto:axelmrak@gmail.com) · [My site](https://www.axelmrak.me/)
 
 ---
 
